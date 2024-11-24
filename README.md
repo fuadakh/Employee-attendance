@@ -3,7 +3,7 @@
 ### Requirement
 - Laravel 10.x
 - PHP 8.1
-- postgreSQL  8
+- postgreSQL
 
 ### Installation Guide
 - clone the repository
